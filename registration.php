@@ -24,6 +24,7 @@
     <a href="index2.html"><b>Registration</b></a>
   </div>
    <!-- MAYABANG THINGZ! --> 
+   <!-- CORNY MO! -->   
   <div class="card">
     <div class="card-body register-card-body">
 
