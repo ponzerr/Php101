@@ -23,7 +23,7 @@
   <div class="register-logo">
     <a href="index2.html"><b>Registration</b></a>
   </div>
-
+   <!-- MAYABANG THINGZ! --> 
   <div class="card">
     <div class="card-body register-card-body">
 
